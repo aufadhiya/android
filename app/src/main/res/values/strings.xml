@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GameNet Jogja</string>
+    <string name="btnNear">Near Me</string>
+    <string name="btnCustom">Custom Search</string>
+    <string name="Daerah">Daerah</string>
+    <string-array name="itemDaerah">
+        <item>Seturan</item>
+        <item>Condong Catur</item>
+        <item>Gejayan</item>
+        <item>Janti</item>
+        <item>Mangkubuwono</item>
+    </string-array>
+    <string-array name="itemHarga">
+        <item>2500</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+    </string-array>
+    <string-array name="itemFasilitas">
+        <item>Rokok</item>
+        <item>Warung</item>
+    </string-array>
+</resources>
